@@ -16,7 +16,7 @@
             <a class="navbar-brand" href="#">
             <img src="img/logo_tech_informatique.jpg" width="250" height="70" class="d-inline-block align-top" alt="Tech informatiuqe et smartphone">
             </a> 
-            <h1>Le specialiste de la reparation Informatique et Smartphone</h1>
+            <h1>Le specialiste de la réparation Informatique et de Smartphone</h1>
             
             <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       
