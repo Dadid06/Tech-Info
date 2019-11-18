@@ -4,11 +4,6 @@
 
 ?>
 
-<?php
-
-        include 'pub.php';
-
-?>
 
 <?php
 
