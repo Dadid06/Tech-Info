@@ -23,7 +23,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Accueil<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.php">Accueil<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Informatique</a>
@@ -32,10 +32,10 @@
                         <a class="nav-link" href="#">Smartphone</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Réparation</a>
+                        <a class="nav-link" href="reparation.php">Réparation</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Contact</a>
+                        <a class="nav-link" href="contact.php" tabindex="-1" aria-disabled="true">Contact</a>
                     </li>
                     </ul>
                     <form class="form-inline my-2 my-lg-0">
